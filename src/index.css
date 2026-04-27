@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+  --color-slate-900: #1e293b; /* custom navy */
+  --color-teal-600: #0d9488; /* custom teal */
+  --color-amber-500: #f59e0b; /* custom warm */
+}
+
+body {
+  @apply bg-slate-50 text-slate-900;
+}
