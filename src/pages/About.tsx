@@ -84,7 +84,7 @@ export function About() {
               {/* Card 2 */}
               <div className="bg-[#FAFAFA] rounded-xl border border-slate-200 p-6 lg:p-8 shadow-[0_4px_20px_rgba(0,0,0,0.08)] flex flex-col items-center">
                 <img 
-                  src="/content/105. Марин Поповски.JPG" 
+                  src="/105. Марин Поповски.JPG" 
                   alt="Марин Поповски" 
                   className="w-[140px] h-[140px] lg:w-[160px] lg:h-[160px] rounded-xl object-cover object-top" 
                 />
